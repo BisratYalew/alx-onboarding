@@ -1,0 +1,9 @@
+Start
+Initialise variable sum=0
+Initialise variable i=1
+For i = 1 to n (ok)
+    Square each number and add it to sum or sum = sum + (i * i)
+    Increment i
+Print sum
+End loop
+End
